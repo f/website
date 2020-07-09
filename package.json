@@ -43,7 +43,7 @@
     "date-fns": "^2.0.0-alpha.1",
     "docsearch.js": "^2.3.3",
     "jquery": "^3.2.1",
-    "marked": "^0.3.6",
+    "marked": "^0.3.18",
     "prop-types": "^15.5.10",
     "qs": "^6.5.0",
     "react": "^15.6.1",
